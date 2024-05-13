@@ -1,0 +1,1 @@
+console.info("This message shows that 'index.js' is working and responding")
